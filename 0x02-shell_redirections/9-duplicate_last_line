@@ -1,2 +1,2 @@
 #!/bin/bash
-:copy tail -1 file
+:copy ; tail -1 iacta
